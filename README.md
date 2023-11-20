@@ -33,6 +33,7 @@ grub-mkconfig -o /boot/grub/grub.cfg
 ```
 </details>
 ### **Install required tools**
+
 For Archlinux, check the [docs](https://wiki.archlinux.org/title/Virt-manager#Installation) to install Virt-manager and the required dependencies.
 
 ### **Enable required services**
